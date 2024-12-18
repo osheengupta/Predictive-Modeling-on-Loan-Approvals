@@ -18,7 +18,7 @@
 
 ## Overview
 
-This project analyzes historical U.S. Small Business Administration (SBA) loan data to develop predictive models for loan default risk. Using advanced machine learning techniques, including K-Nearest Neighbors (kNN), Classification Trees, Logistic Regression, Neural Networks, and Discriminant Analysis, we aimed to improve the loan approval process.
+This project analyzes historical U.S. Small Business Administration (SBA) loan data to develop predictive models for loan default risk. Using advanced machine learning techniques, including K-Nearest Neighbors (kNN), Classification Trees, Logistic Regression, Neural Networks, and Discriminant Analysis, we aimed to improve the loan approval process. The data can be downloaded from [here](https://drive.google.com/file/d/1LGKdxoDwP_jypAnB_o7HKJheoXpTS9qv/view?usp=sharing).
 
 ## Screenshots
 
