@@ -7,15 +7,13 @@
 
 - [Overview](#overview)
 - [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
+- [Libraries Used](#libraries-used)
 - [How It Works](#how-it-works)
 - [Code Snippets](#code-snippets)
 - [Features](#features)
 - [Status](#status)
 - [Challenges](#challenges)
 - [Learnings](#learnings)
-- [Contributors](#contributors)
 - [Contact](#contact)
 
 ## Overview
@@ -28,15 +26,15 @@ This project analyzes historical U.S. Small Business Administration (SBA) loan d
 
 1. **EDA**:
 
-   ![EDA](./img/EDA.png)
+   ![EDA](./img/output2.png)
    - This chart explores the distribution of loan defaults and loan approvals.
    
-   ![States](./img/states.png)
+   ![States](./img/output3.png)
    - This chart explain the distribution of loan defaults and approvals across different states.
 
 2. **Correlation of features**:
 
-   ![Correlation](./img/Correlation.png)
+   ![Correlation](./img/output.png)
    - This heatmap depicts the correlation among for all the features.
 
 3. **Comparision of the models**:
